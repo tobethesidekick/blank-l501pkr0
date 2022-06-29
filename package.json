@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/multi-brand.blank-l501pkr0",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve bySrNy5Ohfmu7EFi9eKx --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
